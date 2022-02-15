@@ -1,0 +1,1401 @@
+/* header responsive starts */
+@media screen and (max-width: 1082px) {
+    .logo img{
+        width: 6.50%;
+    }
+}
+
+@media screen and (max-width: 998px) {
+    .logo img{
+        width: 8%;
+    }
+
+    .logo{
+        position: relative;
+        right: 20px;
+    }
+
+    .explore{
+        position: relative;
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 936px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .logo img{
+        width: 8%;
+    }
+
+    .logo{
+        position: relative;
+        right: 20px;
+    }
+
+    .login{
+        position: relative;
+        left: 3px;
+    }
+
+    .explore{
+        position: relative;
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 853px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .logo img{
+        width: 8%;
+    }
+
+    .logo{
+        position: relative;
+        right: 20px;
+    }
+
+    .login{
+        position: relative;
+        left: 3px;
+    }
+
+    .cart{
+        position: relative;
+       left: 159px;
+    }
+
+    .explore{
+        position: relative;
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 779px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .logo img{
+        width: 8%;
+    }
+
+    .logo{
+        position: relative;
+        right: 20px;
+    }
+
+    .login{
+        position: relative;
+        left: 3px;
+    }
+
+    .cart{
+        position: relative;
+       left: 149px;
+    }
+
+    .more{
+        position: relative;
+        left: 80px;
+    }
+
+    .explore{
+        position: relative;
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 785px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    .logo img{
+        width: 9%;
+    }
+
+    .serach_bar{
+        position: relative;
+        right: 40px;
+        width: 95%;
+    }
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+}
+
+@media screen and (max-width: 699px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 95px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 140px;
+        width: 200%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 520px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 663px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 95px;
+    }
+
+    .logo img{
+        width: 12%;
+    } 
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 130px;
+        width: 200%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 520px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 691px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+    header{
+        height: 98px;
+    }
+
+    .logo img{
+        width: 12%;
+    } 
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 140px;
+        width: 160%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+
+    .login, .more, .cart{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 90px;
+        left: 520px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 658px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+    header{
+        height: 98px;
+    }
+
+    .logo img{
+        width: 12%;
+    } 
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 140px;
+        width: 160%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+
+    .login, .more, .cart{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 90px;
+        left: 460px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 624px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 95px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 70px;
+        width: 150%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 460px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 616px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 98px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 70px;
+        width: 150%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 90px;
+        left: 440px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 555px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 101px !important;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 70px;
+        width: 150%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 90px !important;
+        left: 340px !important;
+        display: flex;
+        justify-content: space-evenly;
+        width: 30% !important;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 557px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+    header{
+        height: 98px;
+    }
+
+    .logo img{
+        width: 12%;
+    } 
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 120px;
+        width: 160%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+
+    .login, .more, .cart{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 190px;
+        left: 0px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+
+@media screen and (max-width: 557px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 95px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 70px;
+        width: 150%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 370px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+    
+    
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    header{
+        height: 95px;
+    }
+
+    .logo,.explore{
+        position: relative;
+        left: -40px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 70px;
+        width: 150%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 370px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 20%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    header{
+        height: 95px;
+    }
+
+    .logo,.explore{
+        position: relative;
+        left: -40px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 80px !important;
+        width: 170%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 230px !important;
+        display: flex;
+        justify-content: space-evenly;
+        width: 40% !important;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    header{
+        height: 95px;
+    }
+
+    .logo,.explore{
+        position: relative;
+        left: -40px;
+    }
+
+    .logo img{
+        width: 12%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 80px !important;
+        width: 170%;
+    }
+
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 200px !important;
+        display: flex;
+        justify-content: space-evenly;
+        width: 40% !important;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    header{
+        height: 95px;
+    }
+
+    .logo,.explore{
+        position: relative;
+        left: -40px;
+    }
+
+    .logo img{
+        width: 30%;
+    }
+
+    .serach_bar{
+        position: relative;
+        top: 11px;
+        right: 60px;
+        width: 220%;
+    }
+
+    .logo{
+        position: relative;
+        right: 70px;
+    }
+
+    .explore{
+        position: relative;
+        right: 70px;
+        font-size: 20px;
+    }
+
+    .btn{
+        display: none;
+    }
+    
+    .mobile_btn{
+        display: block;
+        position: relative;
+        bottom: 65px;
+        left: 160px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 40%;
+        color: white;
+    }
+
+    .fa-plus{
+        font-size: 25px !important;
+    }
+
+    .fa-shopping-cart{
+        font-size: 25px !important;
+    }
+
+    .mobile_login{
+        background-color: transparent;
+        border: white;
+        color: white;
+        font-size: 17px;
+    }
+}
+
+/* header responsive ends */
+
+/* categories responsive starts */
+@media screen and (max-width: 793px) {
+    .categories{
+        display: none;
+    }
+    
+    .mobile_categories{
+        display: block;
+        display: flex;
+        justify-content: space-evenly;
+        position: relative;
+        left: -2px;
+        margin-top: 2%;
+    }
+
+    .mobile_categories2{
+        display: flex;
+        justify-content: space-evenly;
+        position: relative;
+        left: -1px;
+        margin-top: 4%;
+    }
+
+    .mobile_category > img{
+        width: 60%;
+    }
+}
+
+/* deal of the day starts */
+
+@media screen and (max-width: 928px) {
+    .pro{
+        width: 30%;
+        margin-left: 2%;
+    }
+
+    
+}
+
+@media screen and (max-width: 763px) {
+    .pro{
+        width: 30%;
+        margin-left: 2%;
+    }
+
+    #mobile_pro{
+        display: none;
+    }
+
+    .pro_txt{
+        position: relative;
+        top: 30px;
+    }
+}
+
+@media screen and (max-width: 608px) {
+    .pro{
+        width: 30%;
+        margin-left: 2%;
+    }
+
+    #mobile_pro{
+        /* display: none; */
+    }
+
+    .view{
+        position: relative;
+        right: 40px;
+        width: 15%;
+    }
+}
+
+@media screen and (max-width: 613px) {
+    .pro{
+        width: 30%;
+        margin-left: 2%;
+    }
+
+    #mobile_pro{
+        /* display: none; */
+    }
+
+    .view{
+        position: relative;
+        right: 40px;
+        width: 20%;
+    }
+
+    .pro > img{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 593px) {
+    .pro{
+        width: 30%;
+        margin-left: 2%;
+    }
+
+    #mobile_pro2{
+        display: none;
+    }
+
+    .view{
+        position: relative;
+        right: 40px;
+        width: 20%;
+    }
+
+    .pro > img{
+        width: 100%;
+    }
+}
+/* deal of the day ends */
+
+/* about us starts */
+@media screen and (max-width: 1263px) {
+    .about_us{
+        height: 1340px;
+    }
+}
+
+@media screen and (max-width: 1240px) {
+    .about_us{
+        height: 1440px;
+    }
+}
+
+@media screen and (max-width: 1059px) {
+    .about_us{
+        height: 1540px;
+    }
+}
+
+@media screen and (max-width: 1010px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 1540px;
+    }
+}
+
+@media screen and (max-width: 932px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 1640px;
+    }
+}
+
+@media screen and (max-width: 879px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 1740px;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 1840px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 1940px;
+    }
+}
+
+@media screen and (max-width: 662px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 2040px;
+    }
+}
+
+@media screen and (max-width: 626px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 2140px;
+    }
+}
+
+@media screen and (max-width: 589px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 2240px;
+    }
+}
+
+@media screen and (max-width: 549px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 2340px;
+    }
+}
+
+@media screen and (max-width: 524px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 2440px;
+    }
+}
+
+
+@media screen and (max-width: 414px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 2840px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 3000px;
+    }
+}
+
+@media screen and (max-width: 393px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .about_us{
+        height: 3020px;
+    }
+}
+
+/* about us ends */
+
+/* footer starts */
+
+@media screen and (max-width: 593px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+      .cr{
+        position: relative;
+        top: 70px;
+        left: 50px;
+        display: none;
+      }
+    
+      .cre{
+          position: relative;
+          top: 120px;
+          /* right: 200px; */
+      }
+      
+      .foooter_hr{
+          display: none;
+      }
+}
+
+@media screen and (max-width: 375px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+      .cr{
+        position: relative;
+        top: 70px;
+        left: 50px;
+        display: none;
+      }
+    
+      .cre{
+          position: relative;
+          top: 90px;
+          /* right: 200px; */
+      }
+      
+      .foooter_hr{
+          display: none;
+      }
+}
+
+@media screen and (max-width: 414px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+      .cr{
+        position: relative;
+        top: 70px;
+        left: 50px;
+        display: none;
+      }
+    
+      .cre{
+          position: relative;
+          top: 90px;
+          /* right: 200px; */
+      }
+      
+      .foooter_hr{
+          display: none;
+      }
+}
+
+@media screen and (max-width: 412px) {
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+
+      .cr{
+        position: relative;
+        top: 70px;
+        left: 50px;
+        display: none;
+      }
+    
+      .cre{
+          position: relative;
+          top: 70px;
+          /* right: 200px; */
+      }
+      
+      .foooter_hr{
+          display: none;
+      }
+}
