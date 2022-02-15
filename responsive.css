@@ -1029,6 +1029,31 @@
     }
 }
 
+/* banner starts */
+
+@media screen and (max-width: 375px) {
+    .carousel-inner img{
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .carousel-inner img{
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 393px) {
+    .carousel-inner img{
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 412px) {
+    .carousel-inner img{
+        height: 150px;
+    }
+}
 /* deal of the day starts */
 
 @media screen and (max-width: 928px) {
