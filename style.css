@@ -3,15 +3,35 @@
     padding: 0;
 }
 
+:root{
+    --primary-color:#edf2fc;
+    --secondary-color:#212121;
+ }
+ 
+ .dark-theme{
+     --primary-color:#000106;
+     --secondary-color:#fff;
+ }
+
 body{
     margin: auto;
-    background-color: lightslategray;
+    background-color: var(--primary-color) !important;
+    color: var(--secondary-color) !important;
 }
 
 /* header starts */
 
 .mobile_btn{
     display: none;
+}
+
+#icon{
+    cursor: pointer;
+    width: 30px;
+    margin-top: -30%;
+    position: relative;
+    left: -40px;
+    /* margin-left: 1%; */
 }
 
 header{
@@ -109,14 +129,14 @@ header{
 
 .categories{
     height: 120px;
-    background-color: white;
+    background-color: var(--primary-color);
     display: flex;
     justify-content: space-evenly;
     margin-left: -0.10%;
     position: relative;
     top: 1px;
     width: 100%;
-    color: black;
+    color: var(--secondary-color);
     box-shadow: 5px 10px 20px gray;
 }
 
@@ -228,6 +248,7 @@ footer h6{
     font-size: 12px;
     position: relative;
     top: 60px;
+    list-style: none;
     /* margin-left: 4%; */
 }
 
