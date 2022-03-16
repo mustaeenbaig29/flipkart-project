@@ -19,6 +19,17 @@ body{
     color: var(--secondary-color) !important;
 }
 
+#coupon{
+    height: 200px;
+    width: 400px;
+    /* visibility: hidden; */
+    z-index: 100;
+    margin: auto;
+    position: relative;
+    top: 300px;
+    left: -120px;
+}
+
 /* header starts */
 
 .mobile_btn{
